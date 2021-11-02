@@ -1,2 +1,2 @@
 # Kasino
-Ein vollständiger discord Kasino Bot
+This is the Official Code for Rich maker discord Bot I made in only 1 Day. Of course its not finish yet but I will UPDATE this git everytime so make sure to follow me and to star this git. I published this code to give you a lot of more than only a base to create a economy Bot. For this Bot I used only bot commands. Dont forgett: If you want more codes from me then you should support me by adding my Link Protect Bot into your Sever and not just copy and paste the code! I wish you all good Luck
